@@ -7,6 +7,6 @@
 
 
 Please do refer the project report as the methodology explains the code better.
-*NOTE* The dot file mentioned above is automatically created by the code but you can always verify it.
+*NOTE* The 'dot' file mentioned above is automatically created by the code but you can always verify it.
 Thank You!
 
